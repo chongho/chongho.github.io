@@ -5,7 +5,7 @@ youtubeId: 65U5byDZ55M
 ---
 
 Whoa, I can post from my VS Code. I'm truly blogging like a hacker haha.
-Also testing out embedding a YouTube video inside a post. This is the video that inspired me to set up this blog and commit to write everyday (holefully).
+Also testing out embedding a YouTube video inside a post. This is the video that inspired me to set up this blog and commit to write everyday (hopefully).
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
