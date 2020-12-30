@@ -15,4 +15,4 @@ Below is the CSS I used for making the image below responsive.
 
 <!-- ![Test image: a Gongfu tea tray with a clay tea pot and a tea cup on top of it](../images/2020-12-29/manki-kim-L82-kkEBOd0-unsplash.jpg) -->
 
-<img src="../images/2020-12-29/manki-kim-L82-kkEBOd0-unsplash.jpg" alt="a Gongfu tea tray with a clay tea pot and a tea cup on top of it" class="responsive>
+<img src="../images/2020-12-29/manki-kim-L82-kkEBOd0-unsplash.jpg" alt="a Gongfu tea tray with a clay tea pot and a tea cup on top of it" class="responsive">
