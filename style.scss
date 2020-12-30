@@ -149,6 +149,15 @@ img {
 //
 // .masthead
 //
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.site-content {
+  flex: 1;
+}
 
 .wrapper-masthead {
   margin-bottom: 50px;
