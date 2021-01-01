@@ -57,8 +57,8 @@ Apparently the sentence above isn't my original (Playing off of the famous aphor
 
 ### Further readings/viewings
 
-- The video lecture this note is put together from
-  {% include youtubePlayer.html id=page.youtubeId %}
+- The video lecture this note is put together from:  
+  {% include youtubePlayer.html id=page.youtubeId %}  
 - [Web article: The Power of White Space by Interaction Design Foundation](https://www.interaction-design.org/literature/article/the-power-of-white-space#:~:text=White%20space%20is%20the%20area,or%20even%20a%20background%20image.)
 - [Wikipedia article: Signified and Signifier](https://en.wikipedia.org/wiki/Signified_and_signifier)
 - [Reddit article: This lecture is about academic writing, but I found it insanely helpful and upsetting. (UChicago Leadership Lab: The Craft of Writing Effectively)](https://www.reddit.com/r/writing/comments/9tk4r9/this_lecture_is_about_academic_writing_but_i/)
