@@ -14,8 +14,9 @@ This is a summary of [the video lecture](https://youtu.be/vtIzMaLkCaM) on effect
 > - In order to make the readers care, word choices should be carefully made to signify the inconsistency or instability of the problem space, the cost it causes and the benefit if it's solved by your proposal. (vs. Merely sharing new facts or information that you found in a show-and-tell style)
 
 ## Highlights
+#### Writing for organizing thoughts vs. communicating with others 
 A lot of writers start writing as a way to organize their thought. They go ahead to pour down what's on their mind onto the paper or the word processing software. It's a mental snapshot of their model of thinking that'd rather be regarded as the first draft. However, many of them just go ahead and publish the writing piece without considering whether the readers would be able to follow the thought process easily. As a result, in many cases the readers have a hard time understanding the author's point and stop reading it.
-Make sure revising the writings to ensure its serving as a tool for communication with the readers than for organizing your thought.
+Make sure revising the writings to ensure its serving as a tool for communication with the readers than for organizing your thoughts.
 #### The common pitfall  
 A lot of writers (especially in the context of academic writing, like publishing a journal article) is that they think they must share something new, original or important with their peers in order to create an impact. However, people wouldn't care at all unless it creates something of a value to them.
 Writing is not about what's in your head. It's about what impact it creates on the readers. Ideally it should change the readers' view on the subject matter. In order for that to happen, readers should deem the writing piece to be valuable to them.
