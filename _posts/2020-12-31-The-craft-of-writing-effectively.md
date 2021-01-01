@@ -25,8 +25,8 @@ The function of writing is to move the conversation of the community (i.e. You a
 A deliberate choice of words will help the readers notice your writing points out the problem you identified that causes harm, cost the community a lot of resources or could bring benefits to the community when solved.
 Here's a few examples of the "value-signifiers":
 <ul>
-    <li>Basic: _nontheless_, _except_, _however_, _but_ (Evokes reader's attention)</li>
-    <li>Intermediate: _widely_, _accepted_, _reported_, _although_, _inconsistent_ (Signals a sense of community and its norms)</li>
+    <li>Basic: nontheless, except, however, but (Evokes reader's attention)</li>
+    <li>Intermediate: widely, accepted, reported, although, inconsistent (Signals a sense of community and its norms)</li>
     <li>Advanced: Use the "code" terminology widely used and understood by the community<br/>
   (Fun fact: For 4-6 years of PhD study, the first half is spent learning the subject matter and the second half is spent on learning about your readers and the "codes".)</li>
 </ul>
