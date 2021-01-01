@@ -54,14 +54,14 @@ h1 {
 }
 
 h2 {
-  border-top: 4px solid $lightGray;
+  border-top: 4px solid $lighterGray;
   font-size: 24px;
   margin-top: 2em;
   padding: 0.5em 0;
 }
 
 h3 {
-  border-top: 4px solid $lightGray;
+  border-top: 4px solid $lighterGray;
   font-size: 20px;
   margin-top: 2em;
   padding: 0.5em 0;
@@ -142,11 +142,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: $lighterGray;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: $lighterGray;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -184,7 +184,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $lighterGray;
 
   @include mobile {
     text-align: center;
@@ -272,7 +272,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $lighterGray;
 }
 
 .posts > .post:last-child {
@@ -342,7 +342,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $lighterGray;
 }
 
 .disclaimer {
