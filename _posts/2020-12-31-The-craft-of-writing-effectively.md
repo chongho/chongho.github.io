@@ -9,7 +9,7 @@ youtubeId: vtIzMaLkCaM
 ## tl;dr
 This is a summary of [the video lecture](https://youtu.be/vtIzMaLkCaM) on effective writing from professor Larry McEnerney of The University of Chicago. The lecture is more geared toward academic writers but it's still very relevant to the writings in other context especially in business settings. Here are my key takeaways:
 
-> - Writing is not about sharing what I know but about changing the readers' view by making it valuable for them.
+> - Writing is not about sharing what I know but about changing the readers' view by making it valuable to them.
 > - Always think about the community you're writing for. The function of writing is to move the conversation of the community forward (vs. preserving it indefinitely for posterity).
 > - In order to make the readers care, word choices should be carefully made to signify the inconsistency or instability of the problem space, the cost it causes and the benefit if it's solved by your proposal. (vs. Merely sharing new facts or information that you found in a show-and-tell style)
 
@@ -47,7 +47,7 @@ In some Asian languages, there are notably two terms that refer to a human being
 #### Content is king, but Context is emperor
 Apparently the sentence above isn't my original (Playing off of the famous aphorism "Content is king" and other variants like "[Content is king but Context is God](https://www.garyvaynerchuk.com/content-is-king-but-context-is-god/)" by Gary Vanerchuk). The context — the in-between, 간/間, the "code" for the community — is an indispensable constituent of what makes communication and the progress of the community possible.
 
-## Further readings/viewings
+## Further resources
 The video lecture this note is put together from:  
 {% include youtubePlayer.html id=page.youtubeId %}
 (The embedded video isn't showing up in Safari for some reason so adding the [YouTube link](https://youtu.be/vtIzMaLkCaM) for Safari users)
