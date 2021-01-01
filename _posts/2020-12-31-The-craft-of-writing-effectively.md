@@ -6,14 +6,14 @@ youtubeId: vtIzMaLkCaM
 
 <img src="https://lh3.googleusercontent.com/tgZaASeMQqN7mX-DkV1hPKRVg9aCAKTMZOQ2Z-rO70zVnMUUJPthMd6VmGm1IupLjcfygUhXPqN65ZLNDdedixLnpHbqX-ALzA8xbsoOEzaR4q7dC2b3nTmREyuCd2fLKYQzRDjj9g3qscdUt0gXXpEDLAjJVFDAZAW4g2nP2OtkSSDbcngm8D3AXAI8PlJY2MVZpuqZNfVS76dVlRmPup7GV5XSZwNO10gMmlSJnVJ42kVBQLxsYsKIoNQaloRiOachSTUCP-bI4ojuVkbOGPnuducuSCaO3UITUQK5KW_GhV_1X75zWeSROO_6vCnxkN6FIzx15Bwh07ivTFMbynbIJydfrmd4-zwkLBjmWnyCaMhZM5bI6sagbNzNasCnM6I99vcBvWW_ROpXN85iifxnE46V0ZM0t598oVXcsK1UJ-mxfnjuSUW5b5jjMnx5mSH4xEWlrhZNn7LZNFGCnMmru4xmabIV6eppKw-opZgBa4Wm3vMsugxSKDSgjbepEBLl_QGICgdzlVJV-oq6u9kwBegFDQIyO9SJxImImO1CLT1zGVWJrcg2WcPBiY6IOA5467Y5LnuswmR6r9CqkWSOu-Bz7JYvGnPY9hD5nOg2CKGwVRO9mYp5PyUB4cVzBdcmBwz_YyUubVeAnH_rW3DGC75FHWMeP_Kjf7uyl0XuWXmfq0jh7fDZQ4GYYg=w1177-h1306-no?authuser=0" alt="A diagram that explains the relationship between the writer, their readers and the subject matter" class="responsive">
 
-### tl;dr
+## tl;dr
 This is a summary of [the video lecture](https://youtu.be/vtIzMaLkCaM) on effective writing from professor Larry McEnerney of The University of Chicago. The lecture is more geared toward academic writers but it's still very relevant to the writings in other context especially in business settings. Here are my key takeaways:
 
 > - Writing is not about sharing what I know but about changing the readers' view by making it valuable for them.
 > - Always think about the community you're writing for. The function of writing is to move the conversation of the community forward (vs. preserving it indefinitely for posterity).
 > - In order to make the readers care, word choices should be carefully made to signify the inconsistency or instability of the problem space, the cost it causes and the benefit if it's solved by your proposal. (vs. Merely sharing new facts or information that you found in a show-and-tell style)
 
-### Highlights
+## Highlights
 A lot of writers start writing as a way to organize their thought. They go ahead to pour down what's on their mind onto the paper or the word processing software. It's a mental snapshot of their model of thinking that'd rather be regarded as the first draft. However, many of them just go ahead and publish the writing piece without considering whether the readers would be able to follow the thought process easily. As a result, in many cases the readers have a hard time understanding the author's point and stop reading it.
 Make sure revising the writings to ensure its serving as a tool for communication with the readers than for organizing your thought.
 #### The common pitfall  
@@ -34,7 +34,7 @@ Here's a few examples of the "value-signifiers":
 - Wrong: A typical "Martini glass" structure (i.e. Start with generalized facts > Narrows down the scope > Zooms in on a very specific topic > Broadens up the scope again > End with a generalized facts again)
 - Right: The problem (The instability or inconsistency identified in the subject matter the community cares about) and the solution to it
 
-### My musings
+## My musings
 #### Sometimes the "ground" is more important than the "figure"
 This lecture reminded me a lot of the series of discourse on the constituents of design objects (e.g figure-ground relationship in [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology). As much as the idea the writer has in his or her mind is important, the medium via which the idea is communicate is as important, if not more, as the content in order for a change in the status quo to happen. Effective writings will play the role of this metaphorical "ground" that ties the "figures" together, fills up the void and complete the full picture.<br/>
 #### The difference between 인(a biological human) and 인간(a social being)
@@ -47,7 +47,7 @@ In some Asian languages, there are notably two terms that refer to a human being
 #### Content is king, but Context is emperor
 Apparently the sentence above isn't my original (Playing off of the famous aphorism "Content is king" and other variants like "[Content is king but Context is God](https://www.garyvaynerchuk.com/content-is-king-but-context-is-god/)" by Gary Vanerchuk). The context — the in-between, 간/間, the "code" for the community — is an indispensable constituent of what makes communication and the progress of the community possible.
 
-### Further readings/viewings
+## Further readings/viewings
 The video lecture this note is put together from:  
 {% include youtubePlayer.html id=page.youtubeId %}  
 - [Web article: The Power of White Space by Interaction Design Foundation](https://www.interaction-design.org/literature/article/the-power-of-white-space#:~:text=White%20space%20is%20the%20area,or%20even%20a%20background%20image.)
