@@ -74,7 +74,8 @@ h4 {
 
 p {
   font-family: $georgia;
-  line-height: 1.4;
+  color: $darkGray;
+  line-height: 2;
   margin: 0.5em 0;
 }
 
@@ -110,6 +111,7 @@ ul ul, ol ul {
 
 li {
   font-family: $georgia;
+  line-height: 2;
   margin: 10px 0;
 }
 
