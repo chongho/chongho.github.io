@@ -4,7 +4,7 @@ title: "Lecture notes: The Craft of Writing Effectively"
 youtubeId: vtIzMaLkCaM
 ---
 
-<img src="https://lh3.googleusercontent.com/tgZaASeMQqN7mX-DkV1hPKRVg9aCAKTMZOQ2Z-rO70zVnMUUJPthMd6VmGm1IupLjcfygUhXPqN65ZLNDdedixLnpHbqX-ALzA8xbsoOEzaR4q7dC2b3nTmREyuCd2fLKYQzRDjj9g3qscdUt0gXXpEDLAjJVFDAZAW4g2nP2OtkSSDbcngm8D3AXAI8PlJY2MVZpuqZNfVS76dVlRmPup7GV5XSZwNO10gMmlSJnVJ42kVBQLxsYsKIoNQaloRiOachSTUCP-bI4ojuVkbOGPnuducuSCaO3UITUQK5KW_GhV_1X75zWeSROO_6vCnxkN6FIzx15Bwh07ivTFMbynbIJydfrmd4-zwkLBjmWnyCaMhZM5bI6sagbNzNasCnM6I99vcBvWW_ROpXN85iifxnE46V0ZM0t598oVXcsK1UJ-mxfnjuSUW5b5jjMnx5mSH4xEWlrhZNn7LZNFGCnMmru4xmabIV6eppKw-opZgBa4Wm3vMsugxSKDSgjbepEBLl_QGICgdzlVJV-oq6u9kwBegFDQIyO9SJxImImO1CLT1zGVWJrcg2WcPBiY6IOA5467Y5LnuswmR6r9CqkWSOu-Bz7JYvGnPY9hD5nOg2CKGwVRO9mYp5PyUB4cVzBdcmBwz_YyUubVeAnH_rW3DGC75FHWMeP_Kjf7uyl0XuWXmfq0jh7fDZQ4GYYg=w1177-h1306-no?authuser=0" alt="A diagram that explains the relationship between the writer, their readers and the subject matter" class="responsive">
+<img src="https://i.imgur.com/CR6S7UW.png" alt="A diagram that explains the relationship between the writer, their readers and the subject matter" class="responsive">
 
 ## tl;dr
 This is a summary of [the video lecture](https://youtu.be/vtIzMaLkCaM) on effective writing from professor Larry McEnerney of The University of Chicago. The lecture is more geared toward academic writers but it's still very relevant to the writings in other context especially in business settings. Here are my key takeaways:
