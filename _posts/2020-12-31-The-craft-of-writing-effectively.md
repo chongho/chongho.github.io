@@ -27,14 +27,14 @@ Here's a few examples of the "value-signifiers":
 - Basic: _nontheless_, _except_, _however_, _but_ (Evokes reader's attention)
 - Intermediate: _widely_, _accepted_, _reported_, _although_, _inconsistent_ (Signals a sense of community and its norms)
 - Advanced: Use the "code" terminology widely used and understood by the community
-  (Fun fact: For 4-6 years of PhD study, the first half is spent learning the subject matter and the second half is spent on learning about your readers and the "codes".)
+  (Fun fact: For 4-6 years of PhD study, the first half is spent learning the subject matter and the second half is spent on learning about your readers and the "codes".)<br/>
 #### The wrong and the right structure
 - Wrong: A typical "Martini glass" structure (i.e. Start with generalized facts > Narrows down the scope > Zooms in on a very specific topic > Broadens up the scope again > End with a generalized facts again)
 - Right: The problem (The instability or inconsistency identified in the subject matter the community cares about) and the solution to it
 
 ### My musings
 #### Sometimes the "ground" is more important than the "figure"
-This lecture reminded me a lot of the series of discourse on the constituents of design objects (e.g figure-ground relationship in [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology). As much as the idea the writer has in his or her mind is important, the medium via which the idea is communicate is as important, if not more, as the content in order for a change in the status quo to happen. Effective writings will play the role of this metaphorical "ground" that ties the "figures" together, fills up the void and complete the full picture.
+This lecture reminded me a lot of the series of discourse on the constituents of design objects (e.g figure-ground relationship in [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology). As much as the idea the writer has in his or her mind is important, the medium via which the idea is communicate is as important, if not more, as the content in order for a change in the status quo to happen. Effective writings will play the role of this metaphorical "ground" that ties the "figures" together, fills up the void and complete the full picture.<br/>
 #### The difference between 인(a biological human) and 인간(a social being)
 In some Asian languages, there are notably two terms that refer to a human being — 인(Korean)/人(Chinese and Japanese) and 인간(Korean)/人間(Chinese and Japanese).
 - 인(Korean)/人(Chinese and Japanese) is used to indicate the biological nature of a human and is rarely used as an independent word. It's rather used as a suffix to indicicate the word being about a biological human (e.g. 한국인: A Korean, 지구인: An Earthling)
