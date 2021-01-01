@@ -24,10 +24,12 @@ The function of writing is to move the conversation of the community (i.e. You a
 #### How to signify value to your readers
 A deliberate choice of words will help the readers notice your writing points out the problem you identified that causes harm, cost the community a lot of resources or could bring benefits to the community when solved.
 Here's a few examples of the "value-signifiers":
-- Basic: _nontheless_, _except_, _however_, _but_ (Evokes reader's attention)
-- Intermediate: _widely_, _accepted_, _reported_, _although_, _inconsistent_ (Signals a sense of community and its norms)
-- Advanced: Use the "code" terminology widely used and understood by the community
-  (Fun fact: For 4-6 years of PhD study, the first half is spent learning the subject matter and the second half is spent on learning about your readers and the "codes".)<br/>
+<ul>
+    <li>Basic: _nontheless_, _except_, _however_, _but_ (Evokes reader's attention)</li>
+    <li>Intermediate: _widely_, _accepted_, _reported_, _although_, _inconsistent_ (Signals a sense of community and its norms)</li>
+    <li>Advanced: Use the "code" terminology widely used and understood by the community<br/>
+  (Fun fact: For 4-6 years of PhD study, the first half is spent learning the subject matter and the second half is spent on learning about your readers and the "codes".)</li>
+</ul>
 #### The wrong and the right structure
 - Wrong: A typical "Martini glass" structure (i.e. Start with generalized facts > Narrows down the scope > Zooms in on a very specific topic > Broadens up the scope again > End with a generalized facts again)
 - Right: The problem (The instability or inconsistency identified in the subject matter the community cares about) and the solution to it
@@ -37,8 +39,11 @@ Here's a few examples of the "value-signifiers":
 This lecture reminded me a lot of the series of discourse on the constituents of design objects (e.g figure-ground relationship in [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology). As much as the idea the writer has in his or her mind is important, the medium via which the idea is communicate is as important, if not more, as the content in order for a change in the status quo to happen. Effective writings will play the role of this metaphorical "ground" that ties the "figures" together, fills up the void and complete the full picture.<br/>
 #### The difference between 인(a biological human) and 인간(a social being)
 In some Asian languages, there are notably two terms that refer to a human being — 인(Korean)/人(Chinese and Japanese) and 인간(Korean)/人間(Chinese and Japanese).
-- 인(Korean)/人(Chinese and Japanese) is used to indicate the biological nature of a human and is rarely used as an independent word. It's rather used as a suffix to indicicate the word being about a biological human (e.g. 한국인: A Korean, 지구인: An Earthling)
-- 인간(Korean)/人間(Chinese and Japanese) is used more broadly to refer to people or a person. The second character (간/間) means the "in-between", aptly describing the social nature of people. In order for a human being to truly become a social being, they should also fulfill the second syllable of the word (간/間: in-between) in addition to merely existing as the first syllable of the word (인/人: A biological human).<br/>
+<ul>
+    <li>인(Korean)/人(Chinese and Japanese) is used to indicate the biological nature of a human and is rarely used as an independent word. It's rather used as a suffix to indicicate the word being about a biological human (e.g. 한국인: A Korean, 지구인: An Earthling)</li>
+    <li>인간(Korean)/人間(Chinese and Japanese) is used more broadly to refer to people or a person. The second character (간/間) means the "in-between", aptly describing the social nature of people. In order for a human being to truly become a social being, they should also fulfill the second syllable of the word (간/間: in-between) in addition to merely existing as the first syllable of the word (인/人: A biological human).</li>
+</ul>
+
 #### Content is king, but Context is emperor
 Apparently the sentence above isn't my original (Playing off of the famous aphorism "Content is king" and other variants like "[Content is king but Context is God](https://www.garyvaynerchuk.com/content-is-king-but-context-is-god/)" by Gary Vanerchuk). The context — the in-between, 간/間, the "code" for the community — is an indispensable constituent of what makes communication and the progress of the community possible.
 
